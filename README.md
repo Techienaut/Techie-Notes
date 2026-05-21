@@ -7,7 +7,7 @@ See Video https://www.youtube.com/watch?v=g38Hs4WxFRU
 1. Notion + Paid Notion Plan (Business gives you A LOT of tokens for very little--highly recommended).
 
 # 3. Prompt
-- For best results, go my publist page of "Techie-Notes" and Add it to Your Notion, and use it as a prompt for your Notion AI https://past-tortoise-818.notion.site/Techie-Notes-v1-2fefd687c17280ed8d29df8ce1caca55?source=copy_link
+- For best results, go my publist page of "Techie-Notes" and Add it to Your Notion, and use it as a prompt for your Notion AI https://past-tortoise-818.notion.site/Techie-Notes-301fd687c172805ca037ddd15b39eef5?source=copy_link
 - Alternatively, you can use "Techie-Notes.md"--but I find it doesn't preserve the same formatting that the public Notion Doc does (I think it's a limitation).
 
 # 4. Contribution
