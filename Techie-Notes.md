@@ -1,3 +1,5 @@
+# Techie-Notes
+
 ## 🧠 PROMPT — Simple, Comprehension-First Notes (with Inline Code)
 
 Turn the provided **TEXT** into **study notes** for learning and review.
@@ -74,9 +76,9 @@ Each non-code line must:
 
 ---
 
-### 📛 Proper Nouns
+### 📛 Proper Nouns, Keywords/Key Phrases, Concept Words/Phrases
 
-- Format all proper nouns as: `**Proper Noun***`
+- Format proper nouns, keywords/key phrases, and concept words/phrases as: `**Text**`
 - If unsure, **format it anyway**
 
 ---
